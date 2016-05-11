@@ -5,6 +5,6 @@ services:
 
 before_install:
   - docker pull oconnormi/centos-jdk
-  - pip install grip
+  - sudo pip install grip
 before_script: make
 script: make test
