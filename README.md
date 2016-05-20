@@ -1,6 +1,6 @@
 # DDF cons3rt software asset
 
-[![Build Status](https://travis-ci.org/oconnormi/cons3rt-ddf-linux.svg?branch=master)](https://travis-ci.org/oconnormi/cons3rt-ddf-linux)
+[![Build Status](https://travis-ci.org/connexta/cons3rt-ddf-linux.svg?branch=master)](https://travis-ci.org/connexta/cons3rt-ddf-linux)
 
 A [cons3rt](https://www.cons3rt.com) software asset for installing the [Distributed Data Framework](codice.org/ddf) (DDF)
 
